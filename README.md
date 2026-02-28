@@ -8,5 +8,5 @@ Bambu Lab P1S
 각 프린터의 사진은 위 소제목을 클릭하면 확인하실 수 있습니다.
 ### 사용하시기 전 사용 내역을 작성해주시길 바랍니다.
 ### 내역서에 작성 없이 출력중인 경우, 취소시킬 수 있습니다.
-# [Bambu Studio 사용법](./BambuStudio/README.me)
+* [Bambu Studio 사용법](./BambuStudio/README.me)
 Bambu Studio는 3D 프린팅을 하기 위하여 사용되는 슬라이서로 위 제목을 클릭하면 설치법 및 간단한 사용법이 나옵니다.
