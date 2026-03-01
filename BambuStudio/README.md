@@ -1,7 +1,7 @@
 # Bambu Studio 설치법
 https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Studio를 설치하면 됩니다.
-
-파일 설치 후 파일을 열면 아래 사진의 화면이 나올건데 next 누르고 I Agree 누르면 됩니다.
+![설치법](./images/BambuStudio3.png)
+파일 설치 후 파일을 열면 위 사진의 화면이 나올건데 next 누르고 I Agree 누르면 됩니다.
 
 그 후 설치 위치를 정하고 Install을 눌러 설치하면 됩니다.
 # 0Bambu Studio 사용법
