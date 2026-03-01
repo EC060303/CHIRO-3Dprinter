@@ -1,7 +1,7 @@
 # CHIRO_3Dprinter_GUIDE
 이 repo는 중앙대학교 통일공대 로봇 동아리 CHIRO를 위한 3D 프린터 사용 가이드 및 정비 가이드 관련 문서입니다.
 
-# 동아리방 프린터 목록
+# [동아리방 프린터 목록](./Printer/README.md)
 동아리방에는 총 3대의 3D 프린터가 있으며 종류는 아래와 같습니다.
 
 * Bambu Lab P1S
