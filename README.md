@@ -4,9 +4,9 @@
 # 동아리방 프린터 목록
 동아리방에는 총 3대의 3D 프린터가 있으며 종류는 아래와 같습니다.
 
+* Bambu Lab P1S
 * Voron 2.4 (수리 중)
 * Sapphire Plus v3 trident (수리 중)
-* Bambu Lab P1S
 
 각 프린터의 사진은 위 소제목을 클릭하면 확인하실 수 있습니다.
 
