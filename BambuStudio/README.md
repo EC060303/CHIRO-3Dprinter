@@ -29,4 +29,11 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 ![업로드](./images/BambuStudio1.png)
 위 사진의 빨간색 부분을 클릭하여 원하는 파일을 불러올 수 있습니다. 3mf, stl, stp 등의 형식의 파일을 업로드할 수 있습니다. 
 ### 객체 조정
-![객체이동]
+![객체이동](./images/BambuStudio7.png)
+
+파일 업로드 이후 객체를 좌클릭 누른 채로 마우스를 움직여 객체의 위치를 이동시킬 수 있습니다.
+
+![객체정렬1](./images/BambuStudio8.png)
+![객체정렬2](./images/BambuStudio9.png)
+
+위 사진의 빨간색 부분들을 클릭하면 객체들이 자동으로 정렬됩니다. 여러개의 객체들을 한 번에 출력할 때 사용하기 좋습니다.
