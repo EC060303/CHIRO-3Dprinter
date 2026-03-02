@@ -5,6 +5,7 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 
 그 후 설치 위치를 정하고 Install을 눌러 설치하면 됩니다.
 ![설치법2](./images/BambuStudio4.png)
+이후 위 사진과 같은 화면이 나오고 Get Started를 누르면 됩니다.
 
 설치 완료 후 초기 설정을 위한 단계가 나오는데 아시아 선택 후 
 # Bambu Studio 사용법
