@@ -54,4 +54,5 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 슬라이싱은 3D 모델링 파일을 3D 프린터가 출력할 수 있도록 수 많은 얇은 2D 평면 단면으로 나누고 이동 경로와 재료 압출량 등을 포함한 G코드 명령어로 변환하는 작업입니다.
 
 ![슬라이싱1](./images/BambuStudio13.png)
-![슬라이싱2](.
+![슬라이싱2](./images/BambuStudio14.png)
+
