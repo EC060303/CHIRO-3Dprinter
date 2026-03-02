@@ -45,4 +45,4 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 ![자동회전](./images/BambuStudio11.png)
 
 위 사진의 빨간색 부분을 클릭하면 출력하기 좋은 상태로 자동으로 객체가 회전됩니다.
-###
+### 
