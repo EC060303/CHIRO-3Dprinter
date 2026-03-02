@@ -56,3 +56,4 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 ![슬라이싱1](./images/BambuStudio13.png)
 ![슬라이싱2](./images/BambuStudio14.png)
 
+위 사진의 모습이 슬라이싱이 완료된 모습이고 출력하는데 총 몇분이 걸리는지 필라멘트는 얼마나 사용하는지와 같은 정보를 확인할 수 있습니다.
