@@ -37,3 +37,12 @@ https://bambulab.com/ko-kr/download/studio 이 사이트로 접속 후 Bambu Stu
 ![객체정렬2](./images/BambuStudio9.png)
 
 위 사진의 빨간색 부분들을 클릭하면 객체들이 자동으로 정렬됩니다. 여러개의 객체들을 한 번에 출력할 때 사용하기 좋습니다.
+
+![객체회전](./images/BambuStudio10.png)
+
+위 사진의 빨간색 부분을 클릭하고 객체를 회전시킬 수도 있습니다.
+
+![자동회전](./images/BambuStudio11.png)
+
+위 사진의 빨간색 부분을 클릭하면 출력하기 좋은 상태로 자동으로 객체가 회전됩니다.
+###
