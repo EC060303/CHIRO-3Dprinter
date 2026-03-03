@@ -6,4 +6,7 @@
 ![교체1](./images/Change1.png)
 ![교체2](./images/Change2.png)
 
+이후 필라멘트를 끼워 넣으면 됩니다.
 
+![교체3](./images/Change3.png)
+![교체4](./images/Change4.png)
