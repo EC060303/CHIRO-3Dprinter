@@ -3,7 +3,7 @@
 
 우선 새 PLA 필라멘트를 꺼낸 후 필라멘트의 끝 부분을 아래 사진처럼 뾰족하게 잘라주시면 됩니다.
 
-![교체1](./Filament_Change/images/Change1.png)
-![교체2](./Filament_Change/images/Change2.png)
+![교체1](./images/Change1.png)
+![교체2](./images/Change2.png)
 
 
