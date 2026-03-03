@@ -10,3 +10,5 @@
 
 ![교체3](./images/Change3.png)
 ![교체4](./images/Change4.png)
+
+이후 프린팅을 다시 시작하면 됩니다.
